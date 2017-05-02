@@ -1,4 +1,5 @@
 
+ /* Send AJAX request to Java Servlet WebAPI( Reference: https://github.com/xfitu/WebAPI)
 /* This jquery file is used to send ajax data to forgetpassword.jsp on the server*/
 /* this jquery functions for sendin reset link to user for reseting his/her password*/
 /*IMPORTANT NOTE: everything must be inside document.ready function */
