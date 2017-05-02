@@ -1,6 +1,7 @@
-/* javascript or Jquery file for login.jsp page
-  *
-  *  * */
+/* Send AJAX request to Java Servlet WebAPI( Reference: https://github.com/xfitu/WebAPI)
+  * javascript or Jquery file for login.jsp page
+  * 
+  * */
 /*IMPORTANT NOTE: everything must be inside document.ready function */
 $(document).ready(function() {
     //Stops the submit request automatically
