@@ -1,4 +1,5 @@
-/* javascript or Jquery file for signup.jsp page
+/* Send AJAX request to Java Servlet WebAPI( Reference: https://github.com/xfitu/WebAPI)
+ *javascript or Jquery file for signup.jsp page
  * This JQUERY file contains jquery functions
  * which will send request to the API server 
  * in order to register new user to Active Directory and
